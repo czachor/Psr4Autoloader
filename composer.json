@@ -1,0 +1,17 @@
+{
+    "name": "czachor/psr4-autoloader",
+    "description": "PSR-4 Autoloader based on https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "czachor",
+            "email": "f@czachorowski.pro",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Czachor\\": "src"
+        }
+    }
+}

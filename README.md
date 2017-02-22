@@ -50,6 +50,9 @@ The following line would cause the autoloader to attempt to load the
 
      <?php
      new \Foo\Bar\Qux\QuuxTest;
-     
+
+# Installation
+    $ composer require czachor/psr4-autoloader
+
 # To do
 * Tests.

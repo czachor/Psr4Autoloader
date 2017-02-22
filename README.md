@@ -50,3 +50,6 @@ The following line would cause the autoloader to attempt to load the
 
      <?php
      new \Foo\Bar\Qux\QuuxTest;
+     
+# To do
+* Tests.
